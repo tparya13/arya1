@@ -1,31 +1,454 @@
-.one h1{
-    text-align: center;
-    padding-top: 110px;
+.one {
+    font-family: inter,helvetica neue,helvetica,Arial,sans-serif;
     font-size: 3.75rem;
-    line-height: 1;
-    font-family: Inter,Helvetica Neue,Helvetica,Arial,sans-serif;
-    letter-spacing: -.05em;
-    font-weight: 500;
-
-
 }
 .one span{
-    color: rgb(169 121 43)
-}
-.two h1{
-    text-align: center;
+    color: rbg(169 121 43)
+}.one {
+    font-family: inter,helvetica neue,helvetica,Arial,sans-serif;
     font-size: 3.75rem;
-    line-height: 1;
-    font-family: Inter,Helvetica Neue,Helvetica,Arial,sans-serif;
-    letter-spacing: -.05em;
-    font-weight: 500;
-
+}
+.one span{
+    color: rbg(169 121 43)
+}
+.one h1{
+    font-size: 65%;
+}one {
+    font-family: inter,helvetica neue,helvetica,Arial,sans-serif;
+    font-size: 3.75rem;
+}
+.one span{
+    color: rbg(169 121 43)
+}
+.one h1{
+    font-size: 65%;
+}
+.four{
+    font-size: 1.875rem;
+}
+.six{
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+}
+.navbar od{
+    font-family: Trebuchet MS,Lucida sans unicode,Lucida Grande,Lucida sans,Arial,sans-serif;
+}
+.row .ten{
+    font-size: 1.5rem;
+    font-family: Inter,helvetica meue,helvetica,Arial,sans-serif;
+    color: rbg(75 85 99);
+    text-align: center;
+    margin-top: 40px;
+}
+.eight h1{
+    color: rgb(31 41 55);
+    text-align: center;
+    font-size: 1.8rem;
+    font-family: Inter,helvetica meue,helvetica,Arial,sans-serif;
 
 }
-.three h1{
+.imm{
+    width: 15rem;
+    height: 15rem;
+    margin: auto;
+    background-color: white;
+    transition: 5s;
+}
+imm img{
+    width: 70%;
+    margin: 15px 0px;
+}
+.imm:hover{
+    box-shadow: rgb(0,0,0,0.35)0px 5px 15px;
+}
+.therow{
+    width: 800px;
+}
+.ruby h1{
+    font-size: 1.3rem;
+    color: gray;
+}
+.aa{
+    background-color: rgb(216,211,211);
+}
+.kt{
+    background-color: rgb(223,220,220);
+    padding-left: 300px;
+    padding-right: 300px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.kt .ivr{
     text-align: center;
-    font-size: 1.25rem;
-    line-height: 1.75rem;
-    color: rgb(17, 16, 16)
+    font-size: 1.8rem;
+    padding-bottom: 70px;
+}
+imm img{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 9999px;
+}
+.rob h1{
+    font-size: 1.125rem;
 
+}
+.rob h3{
+    font-size: 1.125rem;;
+}
+.ivr{.one {
+  font-family: inter,helvetica neue,helvetica,Arial,sans-serif;
+  font-size: 3.75rem;
+}
+.one span{
+  color: rbg(169 121 43)
+}
+.one h1{
+  font-size: 65%;
+}
+.four{
+  font-size: 1.875rem;
+}
+.six{
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+.navbar od{
+  font-family: Trebuchet MS,Lucida sans unicode,Lucida Grande,Lucida sans,Arial,sans-serif;
+}
+.row .ten{
+  font-size: 1.5rem;
+  font-family: Inter,helvetica meue,helvetica,Arial,sans-serif;
+  color: rbg(75 85 99);
+  text-align: center;
+  margin-top: 40px;
+}
+.eight h1{
+  color: rgb(31 41 55);
+  text-align: center;
+  font-size: 1.8rem;
+  font-family: Inter,helvetica meue,helvetica,Arial,sans-serif;
+
+}
+.imm{
+  width: 15rem;
+  height: 15rem;
+  margin: auto;
+  background-color: white;
+  transition: 5s;
+}
+imm img{
+  width: 70%;
+  margin: 15px 0px;
+}
+.imm:hover{
+  box-shadow: rgb(0,0,0,0.35)0px 5px 15px;
+}
+.therow{
+  width: 800px;
+}
+.ruby h1{
+  font-size: 1.3rem;
+  color: gray;
+}
+.aa{
+  background-color: rgb(216,211,211);
+}
+.kt{
+  background-color: rgb(223,220,220);
+  padding-left: 300px;
+  padding-right: 300px;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+.kt .ivr{
+  text-align: center;
+  font-size: 1.8rem;
+  padding-bottom: 70px;
+}
+imm img{
+  width: 3rem;
+  height: 3rem;
+  border-radius: 9999px;
+}
+.rob h1{
+  font-size: 1.125rem;
+
+}
+.rob h3{
+  font-size: 1.125rem;;
+}
+.ivr{
+  padding-top: 30px;
+  color: rgb(31 41 55);
+}
+.therew{
+  padding-bottom: 80px;
+  margin-left: 1000px;
+}
+.pf{
+  padding-left: 40px;
+}
+.read{
+  text-align: center;
+  font-size: 1rem;
+  padding-bottom: 60px;
+}
+.sprt{
+  text-align: center;
+  font-size: 2rem;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+.hhh{
+  text-align: center;
+  font-size: .9rem;
+  color: rgb(107 114 128);
+}
+.img{
+  padding-left: 800px;
+}
+.thelast{
+  padding-bottom: 80px;
+}
+    padding-top: 30px;
+    color: rgb(31 41 55);
+}
+.therew{
+    padding-bottom: 80px;
+    margin-left: 1000px;
+}
+.pf{
+    padding-left: 40px;
+}
+.read{
+    text-align: center;
+    font-size: 1rem;
+    padding-bottom: 60px;
+}
+.sprt{
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.hhh{
+    text-align: center;
+    font-size: .9rem;
+    color: rgb(107 114 128);
+}
+.img{
+    padding-left: 800px;
+}
+.thelast{
+    padding-bottom: 80px;
+}
+.six{
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+}
+.navbar od{
+    font-family: Trebuchet MS,Lucida sans unicode,Lucida Grande,Lucida sans,Arial,sans-serif;
+}
+.row .ten{
+    font-size: 1.5rem;
+    font-family: Inter,helvetica meue,helvetica,Arial,sans-serif;
+    color: rbg(75 85 99);
+    text-align: center;
+    margin-top: 40px;
+}
+.eight h1{
+    color: rgb(31 41 55);
+    text-align: center;
+    font-size: 1.8rem;
+    font-family: Inter,helvetica meue,helvetica,Arial,sans-serif;
+
+}
+.imm{
+    width: 15rem;
+    height: 15rem;
+    margin: auto;
+    background-color: white;
+    transition: 5s;
+}
+imm img{
+    width: 70%;
+    margin: 15px 0px;
+}
+.imm:hover{
+    box-shadow: rgb(0,0,0,0.35)0px 5px 15px;
+}
+.therow{
+    width: 800px;
+}
+.ruby h1{
+    font-size: 1.3rem;
+    color: gray;
+}
+.aa{
+    background-color: rgb(216,211,211);
+}
+.kt{
+    background-color: rgb(223,220,220);
+    padding-left: 300px;
+    padding-right: 300px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.kt .ivr{
+    text-align: center;
+    font-size: 1.8rem;
+    padding-bottom: 70px;
+}
+imm img{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 9999px;
+}
+.rob h1{
+    font-size: 1.125rem;
+
+}
+.rob h3{
+    font-size: 1.125rem;;
+}
+.ivr{
+    padding-top: 30px;
+    color: rgb(31 41 55);
+}
+.therew{
+    padding-bottom: 80px;
+    margin-left: 1000px;
+}
+.pf{
+    padding-left: 40px;
+}
+.read{
+    text-align: center;
+    font-size: 1rem;
+    padding-bottom: 60px;
+}
+.sprt{
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.hhh{
+    text-align: center;
+    font-size: .9rem;
+    color: rgb(107 114 128);
+}
+.img{
+    padding-left: 800px;
+}
+.thelast{
+    padding-bottom: 80px;
+}
+.one h1{
+    font-size: 65%;
+}
+.four{
+    font-size: 1.875rem;
+}
+.six{
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+}
+.navbar od{
+    font-family: Trebuchet MS,Lucida sans unicode,Lucida Grande,Lucida sans,Arial,sans-serif;
+}
+.row .ten{
+    font-size: 1.5rem;
+    font-family: Inter,helvetica meue,helvetica,Arial,sans-serif;
+    color: rbg(75 85 99);
+    text-align: center;
+    margin-top: 40px;
+}
+.eight h1{
+    color: rgb(31 41 55);
+    text-align: center;
+    font-size: 1.8rem;
+    font-family: Inter,helvetica meue,helvetica,Arial,sans-serif;
+
+}
+.imm{
+    width: 15rem;
+    height: 15rem;
+    margin: auto;
+    background-color: white;
+    transition: 5s;
+}
+imm img{
+    width: 70%;
+    margin: 15px 0px;
+}
+.imm:hover{
+    box-shadow: rgb(0,0,0,0.35)0px 5px 15px;
+}
+.therow{
+    width: 800px;
+}
+.ruby h1{
+    font-size: 1.3rem;
+    color: gray;
+}
+.aa{
+    background-color: rgb(216,211,211);
+}
+.kt{
+    background-color: rgb(223,220,220);
+    padding-left: 300px;
+    padding-right: 300px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.kt .ivr{
+    text-align: center;
+    font-size: 1.8rem;
+    padding-bottom: 70px;
+}
+imm img{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 9999px;
+}
+.rob h1{
+    font-size: 1.125rem;
+
+}
+.rob h3{
+    font-size: 1.125rem;;
+}
+.ivr{
+    padding-top: 30px;
+    color: rgb(31 41 55);
+}
+.therew{
+    padding-bottom: 80px;
+    margin-left: 1000px;
+}
+.pf{
+    padding-left: 40px;
+}
+.read{
+    text-align: center;
+    font-size: 1rem;
+    padding-bottom: 60px;
+}
+.sprt{
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.hhh{
+    text-align: center;
+    font-size: .9rem;
+    color: rgb(107 114 128);
+}
+.img{
+    padding-left: 800px;
+}
+.thelast{
+    padding-bottom: 80px;
 }
