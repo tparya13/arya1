@@ -1,0 +1,25 @@
+.title{
+    margin-left: 180px;
+}
+.tp{
+    text-align: center;
+    font-size: 2rem;
+}
+.ofd{
+    margin-left: 430px;
+}
+.anz h1{
+    font-size: 2.5rem;
+    padding-left: 30px;
+}
+.km{
+    background-color: rgb(44, 42, 42);
+    color: white;
+    width: 140px;
+    height: 40px;
+}
+.arz{
+    width: 60rem;
+    margin: auto;
+    background-color: rgb(254,255,255);
+}
