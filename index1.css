@@ -1,53 +1,76 @@
+.tp{
+    text-align: center;
+    font-size: 2rem;
+}
 .title{
-    padding-left: 350px;
+    margin-left: 200px;
 }
-
-.ap{
-    text-align: center;
-    font-size: 2rem;
+.ofd{
+    margin-left: 520px;
 }
-.pp{
+.ag{
     text-align: center;
 }
-.roww h1{
-    font-size: 2rem;
+.anz h1{
+    font-size: 2.5rem;
 }
-.sts{
+.cbl{
     padding-top: 1px;
     padding-bottom: 58px;
 }
-.az{
+.an{
     margin-left: 20px;
 }
-.qq{
-    margin: auto;
+.rs{
+    margin-left: 500px;
     width: 35rem;
     height: 40rem;
+    padding-right: 200px;
 }
-.qq h3{
-    font-size: 1.5rem;
+.rs1{
+    margin-left: 500px;
+    width: 35rem;
+    height: 40rem;
+    padding-right: 200px;
+    
 }
-.qq span{
-    align-self: center;
+.rs h3{
+    font-size: 1.2rem;
+    color: darkgray;
 }
-.qq h2{
-    font-size: 1.5rem;
-    color: rgb(107, 114, 128);
+.rs span{
+    align-self: 1.5rem;
+    color:darkgray;
+    padding-left: 400px;
+}
+.rs1 h2{
+    font-size: 1.2rem;
+    color: darkgray;
 }
 
-.az img{
+.rs1 h3{
+    font-size: 1.2rem;
+    color: darkgrey;
+}
+.rs span{
+    align-self: 1.5rem;
+    color:darkgray;
+    padding-left: 400px;
+}
+
+.an img{
     width: 100px;
     margin: auto;
 }
-.qw h2{
+.tle h2{
     font-size: 1.2rem;
     color: rgb(107 114 128);
 }
-.btt{
+.km{
     background-color: rgb(100, 99, 99);
     color: white;
 }
-.cmm{
+.arz{
     width: 60rem;
     margin: auto;
     background-color: white;
@@ -61,7 +84,7 @@
     padding-top: 40px;
     padding-bottom: 20px;
 }
-.hhh{
+.opf{
     text-align: center;
     font-size: .955rem;
     color: rgb(107 114 128);
@@ -69,16 +92,16 @@
 .thelast{
     padding-bottom: 80px;
 }
-.lmi{
+.adc{
     padding-right: 0px;
 }
-.lmi .btn{
+.adc .btn{
     padding: 10px 15px;
 }
-.lmo{
+.abc{
     padding-left: 650px;
 }
-.lmo .btn{
+.abc .btn{
     padding: 10px 30px;
 }
 .final h1{
@@ -94,7 +117,7 @@
     width: 3.5rem;
     padding-left: 1.5rem;
 }
-.gth{
+.gith{
     display: inline;
     width: 3.5rem;
     padding-left: 1.5rem;
