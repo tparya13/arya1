@@ -22,13 +22,13 @@
     margin-left: 20px;
 }
 .rs{
-    margin-left: 500px;
+    margin-left: 400px;
     width: 35rem;
     height: 40rem;
     padding-right: 200px;
 }
 .rs1{
-    margin-left: 500px;
+    margin-left: 30px;
     width: 35rem;
     height: 40rem;
     padding-right: 200px;
@@ -41,9 +41,9 @@
 .rs span{
     align-self: 1.5rem;
     color:darkgray;
-    padding-left: 400px;
+    padding-left: 300px;
 }
-.rs1 h2{
+.rs h5{
     font-size: 1.2rem;
     color: darkgray;
 }
@@ -52,10 +52,14 @@
     font-size: 1.2rem;
     color: darkgrey;
 }
-.rs span{
+.rs1 span{
     align-self: 1.5rem;
     color:darkgray;
     padding-left: 400px;
+}
+.rs1 h2{
+    font-size: 1.2rem;
+    color: darkgray;
 }
 
 .an img{
