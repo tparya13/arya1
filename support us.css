@@ -1,5 +1,5 @@
 .al h2{
-    margin-top: 50PX;
+    margin-top: 50px;
 }
 .two h5{
     width: 65%;
@@ -9,25 +9,32 @@
     line-height: 1.75;
     color: rgb(79, 79, 79);
     margin-left: 300px;
-}  
+} 
+
 .adc{
-    flex: justify self;
     padding-right: 0px;
 }
 .adc .btn{
-    padding: 20px 50px;
-    margin-left: 300px;
+    padding: 15px 35px;
+    margin-left: 790px;
+}
 
-} 
 .three{
-    width: 60%;
-    margin-top: 60px;
-    margin-bottom: 60px;
-    padding-bottom: 60px;
-    text-align: start;
+
+    background-color: rgb(219, 219, 219);
 }
 .three h2{
     font-size: 1.5rem;
     padding-left: 80px;
     
+}
+.five h4{
+    padding-top: 50px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding-left: 200px;
+}
+.five h5{
+    padding-left: 200px;
+    color: rgb(105, 103, 103);
 }
