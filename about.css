@@ -117,12 +117,19 @@
     
 }
 .km h3{
-    padding-left: 900px;
-    padding-top: 20px;
+    padding-left: 200px;
+    padding-top: 200px;
+    padding-bottom: 25px;
     
 }
 .km h6{
-    padding-left: 900px;
+    padding-left: 150px;
+    padding-right: 70px;
+}
+.km .btn{
+    padding-left: 12px;
+    margin-left: 240px;
+    margin-top: 20px;
 }
 .thelast{
     padding-bottom: 20px;
@@ -165,7 +172,8 @@
 }
 .aw h5{
     color: rgb(43, 46, 48);
-    padding-left: 600px;
+    padding-left:270px;
+    padding-bottom: 20px;
 }
 
 .abc{
@@ -174,4 +182,12 @@
 .abc .btn{
     padding: 10px 15px;
     margin-right: 500px;
+}
+.tts{
+    display: flex;
+    justify-content: center;
+}
+.tts h1{
+    margin-right: 2%;
+    margin-bottom: 5%;
 }
