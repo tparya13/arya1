@@ -1,3 +1,6 @@
+.an{
+    padding-left: 300px;
+}
 .one {
     font-family: Inter,helvetica neue,helvetica,Arial,sans-serif;
     font-size: 3.75rem;
@@ -58,6 +61,7 @@
 .therow{
     width: 1000px; 
    text-align: center;
+
     
 }
 .aru{
@@ -155,4 +159,11 @@
 .final h1{
     font-size: 1.2rem;
 }
-
+.tts{
+    display: flex;
+    justify-content: center;
+}
+.tts .btn{
+    margin-left: 20px;
+    padding-left: 22px;
+}
